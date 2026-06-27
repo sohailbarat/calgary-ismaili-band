@@ -22,9 +22,9 @@ export const instruments: Instrument[] = [
     slug: "flute",
     name: "Flute",
     shortDescription:
-      "Learn the melodic heart of the pipe band with traditional and contemporary flute techniques.",
+      "Learn the melodic heart of the youth flute band with traditional and contemporary flute techniques.",
     description:
-      "The flute section carries the melodic voice of the Calgary Ismaili Pipe Band. Students learn breath control, finger technique, and the rich repertoire of traditional and contemporary pieces that bring our performances to life.",
+      "The flute section carries the melodic voice of the Calgary Ismaili Youth Flute Band. Students learn breath control, finger technique, and the rich repertoire of traditional and contemporary pieces that bring our performances to life.",
     image: images.flute,
     beginnerInfo:
       "No prior musical experience is required. Beginners start with basic scales, posture, and simple melodies. Our volunteer instructors provide one-on-one and group instruction tailored to each student's pace.",
@@ -57,7 +57,7 @@ export const instruments: Instrument[] = [
     shortDescription:
       "Master precision drumming with traditional Scottish snare techniques and marching rhythms.",
     description:
-      "The snare drum provides the crisp, driving rhythm that powers every pipe band performance. Students develop stick technique, rudiments, and the discipline required for synchronized marching.",
+      "The snare drum provides the crisp, driving rhythm that powers every band performance. Students develop stick technique, rudiments, and the discipline required for synchronized marching.",
     image: images.snare,
     beginnerInfo:
       "Beginners learn basic grip, stick control, and fundamental rudiments. Progression includes marching patterns and ensemble coordination with the full band.",
@@ -90,7 +90,7 @@ export const instruments: Instrument[] = [
     shortDescription:
       "Provide the powerful foundation that anchors the band's rhythm and marching precision.",
     description:
-      "The bass drum is the heartbeat of the pipe band, delivering deep, resonant tones that unify the ensemble. Bass drummers learn timing, power control, and the art of supporting the entire band's sound.",
+      "The bass drum is the heartbeat of the band, delivering deep, resonant tones that unify the ensemble. Bass drummers learn timing, power control, and the art of supporting the entire band's sound.",
     image: images.bass,
     beginnerInfo:
       "Bass drum students focus on timing, mallet technique, and reading drum scores. Physical strength and steady rhythm are developed through progressive exercises.",
@@ -221,15 +221,15 @@ export const pastEvents: Event[] = [
 export const featuredVideos: Video[] = [
   {
     id: "band-1",
-    title: "Calgary Ismaili Pipe Band — Live Performance",
+    title: "Calgary Ismaili Youth Flute Band — Live Performance",
     description:
-      "Performance footage from a recent Calgary Ismaili Pipe Band community event.",
+      "Performance footage from a recent Calgary Ismaili Youth Flute Band community event.",
     src: bandVideos.performance1,
     featured: true,
   },
   {
     id: "band-2",
-    title: "Calgary Ismaili Pipe Band — Performance Highlights",
+    title: "Calgary Ismaili Youth Flute Band — Performance Highlights",
     description:
       "Highlights from our musicians performing for the community.",
     src: bandVideos.performance2,
@@ -237,7 +237,7 @@ export const featuredVideos: Video[] = [
   },
   {
     id: "band-3",
-    title: "Calgary Ismaili Pipe Band — Community Performance",
+    title: "Calgary Ismaili Youth Flute Band — Community Performance",
     description:
       "Additional footage from a recent band performance and community gathering.",
     src: bandVideos.performance3,
@@ -247,7 +247,7 @@ export const featuredVideos: Video[] = [
   },
   {
     id: "gen-1",
-    title: "Calgary Ismaili Pipe Band — Gen 1 Performance",
+    title: "Calgary Ismaili Youth Flute Band — Gen 1 Performance",
     description:
       "Performance footage from our Gen 1 musicians at a community event.",
     src: bandVideos.gen1,
@@ -255,7 +255,7 @@ export const featuredVideos: Video[] = [
   },
   {
     id: "gen-2",
-    title: "Calgary Ismaili Pipe Band — Gen 2 Performance",
+    title: "Calgary Ismaili Youth Flute Band — Gen 2 Performance",
     description:
       "Performance footage from our Gen 2 musicians showcasing their progress.",
     src: bandVideos.gen2,
@@ -314,7 +314,7 @@ export const galleryImages: GalleryImage[] = [
   {
     id: "1",
     src: bandImages.marchingBandGroup,
-    alt: "Calgary Ismaili Marching Band group photo with drums and percussion",
+    alt: "Calgary Ismaili Youth Flute Band group photo with drums and percussion",
     category: "performances",
   },
   {
@@ -338,7 +338,7 @@ export const galleryImages: GalleryImage[] = [
   {
     id: "5",
     src: bandImages.volunteers,
-    alt: "Volunteer instructors and leaders of the Calgary Ismaili Pipe Band",
+    alt: "Volunteer instructors and leaders of the Calgary Ismaili Youth Flute Band",
     category: "community-events",
   },
 ];
@@ -348,7 +348,7 @@ export const timelineMilestones: TimelineMilestone[] = [
     year: "2010",
     title: "Band Founded",
     description:
-      "A group of passionate volunteers established the Calgary Ismaili Pipe Band to preserve musical tradition and serve the community.",
+      "A group of passionate volunteers established the Calgary Ismaili Youth Flute Band to preserve musical tradition and serve the community.",
   },
   {
     year: "2013",

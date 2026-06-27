@@ -35,7 +35,7 @@ export function Footer() {
             <div className="flex items-center gap-2">
               <Music2 className="h-6 w-6 text-secondary" aria-hidden="true" />
               <span className="font-serif text-lg font-bold">
-                Calgary Ismaili Pipe Band
+                Calgary Ismaili Youth Flute Band
               </span>
             </div>
             <p className="mt-4 text-sm text-white/70">
@@ -106,7 +106,7 @@ export function Footer() {
 
         <div className="mt-12 border-t border-white/10 pt-8 text-center text-sm text-white/50">
           <p>
-            &copy; {currentYear} Calgary Ismaili Pipe Band. All rights reserved.
+            &copy; {currentYear} Calgary Ismaili Youth Flute Band. All rights reserved.
           </p>
         </div>
       </div>

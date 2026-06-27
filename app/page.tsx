@@ -23,7 +23,7 @@ export default function HomePage() {
     <>
       <Hero
         headline="Preserving Tradition. Inspiring Youth. Serving Community."
-        subheadline="The Calgary Ismaili Pipe Band is a volunteer-led musical organization dedicated to teaching youth and performing for the community."
+        subheadline="The Calgary Ismaili Youth Flute Band is a volunteer-led musical organization dedicated to teaching youth and performing for the community."
         primaryCta={{ label: "Learn More", href: "/about" }}
         secondaryCta={{ label: "Book the Band", href: "/book-the-band" }}
       />
@@ -59,7 +59,7 @@ export default function HomePage() {
               <div className="relative aspect-[4/3] overflow-hidden rounded-xl shadow-lg">
                 <Image
                   src={bandImages.marchingBandGroup}
-                  alt="Calgary Ismaili Marching Band group photo"
+                  alt="Calgary Ismaili Youth Flute Band group photo"
                   fill
                   className="object-cover"
                   sizes="(max-width: 1024px) 100vw, 50vw"
@@ -73,7 +73,7 @@ export default function HomePage() {
                 centered={false}
               />
               <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
-                The Calgary Ismaili Pipe Band brings together passionate
+                The Calgary Ismaili Youth Flute Band brings together passionate
                 volunteers who share a love of music and community service. From
                 weekly training sessions for youth and adults to performances at
                 festivals, ceremonies, and cultural celebrations — we are proud

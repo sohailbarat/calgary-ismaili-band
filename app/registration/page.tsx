@@ -7,7 +7,7 @@ import { ClipboardX } from "lucide-react";
 export const metadata = createMetadata({
   title: "Student Registration",
   description:
-    "Student registration information for the Calgary Ismaili Pipe Band training programs.",
+    "Student registration information for the Calgary Ismaili Youth Flute Band training programs.",
   path: "/registration",
 });
 

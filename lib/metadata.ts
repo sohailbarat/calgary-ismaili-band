@@ -4,9 +4,9 @@ const siteUrl =
   process.env.NEXT_PUBLIC_SITE_URL ?? "https://calgary-ismaili-band.vercel.app";
 
 export const siteConfig = {
-  name: "Calgary Ismaili Pipe Band",
+  name: "Calgary Ismaili Youth Flute Band",
   description:
-    "Volunteer-led pipe band dedicated to youth music education, cultural preservation, and community service in Calgary.",
+    "Volunteer-led youth flute band dedicated to music education, cultural preservation, and community service in Calgary.",
   url: siteUrl,
   phone: null as string | null,
   email: null as string | null,

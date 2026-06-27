@@ -8,7 +8,7 @@ import { Heart, Mail, Phone } from "lucide-react";
 export const metadata = createMetadata({
   title: "Donate",
   description:
-    "Support the Calgary Ismaili Pipe Band. Our donation platform is coming soon.",
+    "Support the Calgary Ismaili Youth Flute Band. Our donation platform is coming soon.",
   path: "/donate",
 });
 

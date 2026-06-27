@@ -9,7 +9,7 @@ import { Calendar, Users, MapPin, Music } from "lucide-react";
 export const metadata = createMetadata({
   title: "Book the Band",
   description:
-    "Request the Calgary Ismaili Pipe Band for your community event, celebration, ceremony, or cultural program.",
+    "Request the Calgary Ismaili Youth Flute Band for your community event, celebration, ceremony, or cultural program.",
   path: "/book-the-band",
 });
 
@@ -23,7 +23,7 @@ export default function BookTheBandPage() {
               Book the Band
             </h1>
             <p className="mt-4 max-w-2xl text-lg text-white/80">
-              Bring the energy and tradition of the Calgary Ismaili Pipe Band
+              Bring the energy and tradition of the Calgary Ismaili Youth Flute Band
               to your next event.
             </p>
           </FadeIn>

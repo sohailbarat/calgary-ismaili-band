@@ -7,7 +7,7 @@ import { galleryImages } from "@/data/mock-data";
 export const metadata = createMetadata({
   title: "Gallery",
   description:
-    "Browse photos from Calgary Ismaili Pipe Band performances, training sessions, community events, and youth programs.",
+    "Browse photos from Calgary Ismaili Youth Flute Band performances, training sessions, community events, and youth programs.",
   path: "/gallery",
 });
 

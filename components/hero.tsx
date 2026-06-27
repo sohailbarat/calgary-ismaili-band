@@ -52,7 +52,7 @@ export function Hero({
       <div className="container relative z-10 mx-auto px-4 py-20 text-center">
         <FadeIn>
           <p className="mb-4 text-sm font-semibold uppercase tracking-widest text-secondary">
-            Calgary Ismaili Pipe Band
+            Calgary Ismaili Youth Flute Band
           </p>
           <h1 className="font-serif text-4xl font-bold leading-tight text-white sm:text-5xl md:text-6xl lg:text-7xl">
             {headline}

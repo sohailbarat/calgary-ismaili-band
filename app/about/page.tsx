@@ -11,7 +11,7 @@ import { timelineMilestones, values } from "@/data/mock-data";
 export const metadata = createMetadata({
   title: "About Us",
   description:
-    "Learn about the Calgary Ismaili Pipe Band — our story, mission, vision, and values serving the Calgary community through music.",
+    "Learn about the Calgary Ismaili Youth Flute Band — our story, mission, vision, and values serving the Calgary community through music.",
   path: "/about",
 });
 
@@ -39,7 +39,7 @@ export default function AboutPage() {
               <SectionHeader title="Our Story" centered={false} />
               <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
                 Founded in 2010 by a group of dedicated volunteers, the Calgary
-                Ismaili Pipe Band was born from a shared passion for musical
+                Ismaili Youth Flute Band was born from a shared passion for musical
                 tradition and community service. What began as a small gathering
                 of musicians has grown into a vibrant organization that has
                 trained over 100 students and performed at more than 200
@@ -57,7 +57,7 @@ export default function AboutPage() {
               <div className="relative aspect-[4/3] overflow-hidden rounded-xl shadow-lg">
                 <Image
                   src={bandImages.volunteers}
-                  alt="Volunteer instructors and leaders of the Calgary Ismaili Pipe Band"
+                  alt="Volunteer instructors and leaders of the Calgary Ismaili Youth Flute Band"
                   fill
                   className="object-cover"
                   sizes="(max-width: 1024px) 100vw, 50vw"
@@ -81,7 +81,7 @@ export default function AboutPage() {
               <div className="relative aspect-[4/3] overflow-hidden rounded-xl shadow-md">
                 <Image
                   src={bandImages.marchingBandGroup}
-                  alt="Full Calgary Ismaili Marching Band group photo with drums"
+                  alt="Full Calgary Ismaili Youth Flute Band group photo with drums"
                   fill
                   className="object-cover"
                   sizes="(max-width: 768px) 100vw, 50vw"
@@ -120,7 +120,7 @@ export default function AboutPage() {
               <SectionHeader title="Our Vision" centered={false} />
               <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
                 To inspire the next generation of musicians and community
-                leaders through the discipline, teamwork, and joy of pipe band
+                leaders through the discipline, teamwork, and joy of youth flute band
                 music. We envision a future where every young person in our
                 community has the opportunity to discover their musical
                 potential.

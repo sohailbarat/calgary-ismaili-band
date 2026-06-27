@@ -8,7 +8,7 @@ import { Mail, Phone, MapPin } from "lucide-react";
 export const metadata = createMetadata({
   title: "Contact",
   description:
-    "Get in touch with the Calgary Ismaili Pipe Band. Questions about training, bookings, or volunteering.",
+    "Get in touch with the Calgary Ismaili Youth Flute Band. Questions about training, bookings, or volunteering.",
   path: "/contact",
 });
 

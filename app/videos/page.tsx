@@ -8,7 +8,7 @@ import { featuredVideos } from "@/data/mock-data";
 export const metadata = createMetadata({
   title: "Videos",
   description:
-    "Watch Calgary Ismaili Pipe Band performances, training highlights, and community event videos.",
+    "Watch Calgary Ismaili Youth Flute Band performances, training highlights, and community event videos.",
   path: "/videos",
 });
 

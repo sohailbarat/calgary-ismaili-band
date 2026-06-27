@@ -7,7 +7,7 @@ import { upcomingEvents, pastEvents } from "@/data/mock-data";
 export const metadata = createMetadata({
   title: "Events",
   description:
-    "Upcoming and past events featuring the Calgary Ismaili Pipe Band — performances, parades, and community gatherings.",
+    "Upcoming and past events featuring the Calgary Ismaili Youth Flute Band — performances, parades, and community gatherings.",
   path: "/events",
 });
 

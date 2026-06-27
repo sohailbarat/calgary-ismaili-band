@@ -46,7 +46,7 @@ export default function LearnPage() {
               Whether you are picking up an instrument for the first time or
               looking to refine your skills, our programs are designed to meet
               you where you are. Students learn technique, ensemble playing,
-              and the discipline that comes with being part of a pipe band.
+              and the discipline that comes with being part of the youth flute band.
             </p>
           </div>
           <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">

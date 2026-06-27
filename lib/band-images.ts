@@ -1,4 +1,4 @@
-/** Calgary Ismaili Pipe Band photos — served from /public/images/band */
+/** Calgary Ismaili Youth Flute Band photos — served from /public/images/band */
 export const bandImages = {
   hero: "/images/band/marching-band-group.png",
   volunteers: "/images/band/volunteers.png",

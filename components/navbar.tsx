@@ -33,8 +33,8 @@ export function Navbar() {
           className="flex items-center gap-2 font-serif text-lg font-bold text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-sm"
         >
           <Music2 className="h-6 w-6 text-secondary" aria-hidden="true" />
-          <span className="hidden sm:inline">Calgary Ismaili Pipe Band</span>
-          <span className="sm:hidden">CIPB</span>
+          <span className="hidden sm:inline">Calgary Ismaili Youth Flute Band</span>
+          <span className="sm:hidden">CIYFB</span>
         </Link>
 
         <ul className="hidden items-center gap-1 lg:flex" role="list">
